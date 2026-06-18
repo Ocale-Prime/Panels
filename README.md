@@ -2,7 +2,7 @@
 This Operating system is fully made in C# 
 
 # About and Logos
-Hello people, this software is *protected by the Ocale Corporation License.* This type of License, is mainly for the people who like to edit other softwares, **not to edit our software**, which is important because of some people like to edit toher people software, which is not nice, as always.
+Hello people, this software is *protected by the Ocale Corporation License.* This type of License, is mainly for the people who like to edit other softwares. **Please do not edit our software(s)**, which is important because of some people like to edit other people software, which is not nice, as always.
 Anyways, the code is made out of C# + C++ + ASM + .inf dirvers code + SnailScript Text edition(Mostly for the PE). But, the source code, will be availeble in the the SnailScript Sourcecode section, where the main system in C++, C#, ASM and the languages what we said. *How to know which one is the
 PanelsOS one?*. Well simple, there are files with _panos which translate to PanelsOS, which some of the source code, will also listed in this software under the SourceCode section, which will come soon.
 
